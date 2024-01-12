@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alybobbitt
-- 👀 I’m interested in transitioning from a decade of Public Education to Data Science or Operations Analyst Role
+- 👀 I’m interested in transitioning from a decade of Public Education (K12, Campus and District levels) to Data Science or Operations Analyst Role
 - 🌱 I’m currently learning to make my own code library to track all my languages in Notion
 - 💞️ I’m looking to collaborate on accessible data visualizations that meet brand guidlines.
 - 📫 How to reach me alyscebobbitt@gmail.com | https://www.linkedin.com/in/alybobbitt/
